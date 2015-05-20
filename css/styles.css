@@ -10,3 +10,43 @@ h1 {
 h2 {
   color: yellow;
 }
+
+h3 {
+  color: black;
+}
+
+div {
+  background-color: yellow;
+}
+
+section {
+  margin-left: 0;
+  border: 1px solid black;
+  padding: 25px;
+}
+
+.apa {
+  color: #345555;
+  border: 5px solid yellow;
+}
+
+.emelie {
+  width: 600px;
+  height: 600px;
+  background-color: pink;
+  border: 2px solid purple;
+}
+
+.maja {
+  color: white;
+  background-color: pink;
+}
+
+p {
+  font-size: 50px;
+}
+
+#kevin {
+  color: blue;
+}
+

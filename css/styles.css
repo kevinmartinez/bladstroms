@@ -1,52 +1,47 @@
 body {
   background-color: yellow;
-  color: black;
-}
+  color: black; }
 
 h1 {
-  color: red;
-}
+  color: red; }
 
 h2 {
-  color: yellow;
-}
+  color: yellow; }
 
 h3 {
-  color: black;
-}
+  color: black; }
 
 div {
-  background-color: yellow;
-}
+  background-color: yellow; }
 
 section {
   margin-left: 0;
   border: 1px solid black;
-  padding: 25px;
-}
+  padding: 25px; }
 
 .apa {
   color: #345555;
-  border: 5px solid yellow;
-}
+  border: 5px solid yellow; }
 
 .emelie {
   width: 600px;
   height: 600px;
   background-color: pink;
-  border: 2px solid purple;
-}
+  border: 2px solid purple; }
 
 .maja {
   color: white;
-  background-color: pink;
-}
+  background-color: pink; }
 
 p {
-  font-size: 50px;
-}
+  font-size: 50px; }
 
 #kevin {
-  color: blue;
-}
+  color: blue; }
 
+.main-header {
+  background-color: black; }
+  .main-header h1 {
+    color: white; }
+
+/*# sourceMappingURL=styles.css.map */

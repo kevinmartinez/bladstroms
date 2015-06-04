@@ -1,4 +1,5 @@
 var gulp = require('gulp');
+
 var minifyCss = require('gulp-minify-css');
 
 gulp.task('scripts', function() {
@@ -10,6 +11,3 @@ gulp.task('scripts', function() {
 
 
 gulp.task('default', ['scripts']);
-
-
-

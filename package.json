@@ -1,0 +1,22 @@
+{
+  "name": "bladstroms",
+  "version": "1.0.0",
+  "description": "Corporate page for Bladstroms Markarbeten AB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinmartinez/bladstroms.git"
+  },
+  "author": "Kevin Martinez, pixelkojan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinmartinez/bladstroms/issues"
+  },
+  "homepage": "https://github.com/kevinmartinez/bladstroms#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
